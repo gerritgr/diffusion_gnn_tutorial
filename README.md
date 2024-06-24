@@ -35,6 +35,50 @@ Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilist
 
 ## Foundations of Diffusion Models
 
+Here is the converted list in Markdown format with the newest papers listed first:
+
+```markdown
+- **2023** - **Universal Guidance for Diffusion Models**  
+  *Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Soumyadip Sengupta, Micah Goldblum, Jonas Geiping, Tom Goldstein*
+
+- **2023** - **On the Connection Between MPNN and Graph Transformer**  
+  *Chen Cai, Truong Son Hy, Rose Yu, Yusu Wang*
+
+- **2023** - **Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport**  
+  *Alexander Tong, Nikolay Malkin, Guillaume Huguet, Yanlei Zhang, Jarrid Rector-Brooks, Kilian Fatras, Guy Wolf, Yoshua Bengio*
+
+- **2023** - **Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**  
+  *Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden*
+
+- **2023** - **Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models**  
+  *Gabriele Corso, Yilun Xu, Valentin de Bortoli, Regina Barzilay, Tommi Jaakkola*
+
+- **2023** - **RetroBridge: Modeling Retrosynthesis with Markov Bridges**  
+  *Ilia Igashov, Arne Schneuing, Marwin Segler, Michael Bronstein, Bruno Correia*
+
+- **2023** - **Fine-grained Expressivity of Graph Neural Networks**  
+  *Jan Böker, Ron Levie, Ningyuan Huang, Soledad Villar, Christopher Morris*
+
+- **2022** - **Understanding DDPM Latent Codes Through Optimal Transport**  
+  *Valentin Khrulkov, Gleb Ryzhakov, Andrei Chertkov, Ivan Oseledets*
+
+- **2022** - **Generative Modelling With Inverse Heat Dissipation**  
+  *Severi Rissanen, Markus Heinonen, Arno Solin*
+
+- **2022** - **Diffusion Causal Models for Counterfactual Estimation**  
+  *Pedro Sanchez, Sotirios A. Tsaftaris*
+
+- **2022** - **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise**
+    *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein*
+
+- **2021** - **Generative AI for designing and validating easily synthesizable and structurally novel antibiotics**  
+  *Wenhao Gao, Rocío Mercado, Connor W. Coley*
+
+
+
+
+
+
 ## Foundations of GNNs
 
 ## Diffusion Modes for Molecular Graphs
