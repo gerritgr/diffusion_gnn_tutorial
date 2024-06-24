@@ -29,7 +29,7 @@ Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilist
 
 ## Foundations of Diffusion Models
 
-## Foundations of Diffusion GNNs
+## Foundations of GNNs
 
 ## Diffusion Modes for Molecular Graphs
 
