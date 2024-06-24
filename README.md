@@ -2,6 +2,12 @@
 
 Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilistic Diffusion" as part of the ScaDS.AI Summer School 2024.
 
+- Reviews
+- Foundations of Diffusion Models
+- Foundations of GNNs
+- Diffusion Modes for Molecular Graphs
+- Diffusion Modes for Molecular Graphs
+- Diffusion Modes for Molecular Point Clouds
 
 ## Reviews
 
