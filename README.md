@@ -2,7 +2,7 @@
 
 Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilistic Diffusion" as part of the [ScaDS.AI Summer School 2024](https://scads.ai/education/summer-schools/summer-school-2024/).
 
-Please feel free to reach out at [https://datasciapps.de/author/gerrit-gro%C3%9Fmann/](https://datasciapps.de/author/gerrit-gro%C3%9Fmann/). 
+Please feel free to reach out at [Gerrit Großmann at DSA at DFKI](https://datasciapps.de/author/gerrit-gro%C3%9Fmann/). 
 
 - Internet Resources
 - Reviews
