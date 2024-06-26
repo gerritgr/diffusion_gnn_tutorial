@@ -2,6 +2,9 @@
 
 Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilistic Diffusion" as part of the [ScaDS.AI Summer School 2024](https://scads.ai/education/summer-schools/summer-school-2024/).
 
+Please feel free to reach out at [https://datasciapps.de/author/gerrit-gro%C3%9Fmann/](https://datasciapps.de/author/gerrit-gro%C3%9Fmann/). 
+
+- Internet Resources
 - Reviews
 - Foundations of Diffusion Models
 - Foundations of GNNs
@@ -9,6 +12,13 @@ Talk/Tutorial on "Molecule Generation with Graph Neural Networks and Probabilist
 - Diffusion Modes for Molecular Point Clouds
 - Diffusion in the Latent Space
 - Broader Applications (Proteins, Docking, Force Fields, Antibodies, Retrosynthesis)
+
+## Internet Resources
+- [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd)
+- [Michael Bronstein: The Road to Biology 2.0 Will Pass Through Black-Box Data](https://towardsdatascience.com/the-road-to-biology-2-0-will-pass-through-black-box-data-bbd00fabf959)
+- [Learning on Graphs & Geometry](https://portal.valencelabs.com/logg)
+- [Awesome Diffusion Models](https://github.com/hyungkwonko/awesome-diffusion-models)
+- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
 
 ## Reviews
 
