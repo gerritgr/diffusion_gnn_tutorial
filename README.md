@@ -18,7 +18,8 @@ Please feel free to reach out at [Gerrit Großmann at DSA at DFKI](https://datas
 - [Michael Bronstein: The Road to Biology 2.0 Will Pass Through Black-Box Data](https://towardsdatascience.com/the-road-to-biology-2-0-will-pass-through-black-box-data-bbd00fabf959)
 - [Learning on Graphs & Geometry](https://portal.valencelabs.com/logg)
 - [Awesome Diffusion Models](https://github.com/hyungkwonko/awesome-diffusion-models)
-- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+- [Step-by-Step Diffusion: An Elementary Tutorial (Nikkiran et al.)](https://arxiv.org/pdf/2406.08929)
+- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges (Bronstein et al.)](https://geometricdeeplearning.com/)
 
 ## Reviews
 
