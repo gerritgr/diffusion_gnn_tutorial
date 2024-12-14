@@ -20,6 +20,7 @@ Please feel free to reach out at [Gerrit Großmann at DSA at DFKI](https://datas
 - [Awesome Diffusion Models](https://github.com/hyungkwonko/awesome-diffusion-models)
 - [Step-by-Step Diffusion: An Elementary Tutorial (Nikkiran et al.)](https://arxiv.org/pdf/2406.08929)
 - [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges (Bronstein et al.)](https://geometricdeeplearning.com/)
+- [Flow Matching Tutorial (Ben-Hamu et al.)](https://drive.google.com/file/d/1-QKAT8IPbqOpCq42DUeEqrgIP7f7f4TH/view)
 
 ## Reviews
 
